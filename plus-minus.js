@@ -22,5 +22,3 @@ const plusMinus = (nums) => {
 }
 
 plusMinus(nums)
-
-// console.log((3 / 6).toFixed(6))
